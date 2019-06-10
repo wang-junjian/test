@@ -1,5 +1,5 @@
 # test
-<div align="center" style="bg-gray-dark">
+<div align="center" class="bg-gray-dark">
   <img src="https://pjreddie.com/static/img/darknet.png" width="240px">
 </div>
 
